@@ -1,0 +1,16 @@
+.App {
+	padding: 5%;
+	display: grid;
+	grid-gap: 5px;
+	grid-template-columns: auto auto auto auto auto;
+}
+
+.color {
+	display: flex;
+	width: 20px;
+	height: 20px;
+	border: solid 1px #ddd;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
